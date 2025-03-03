@@ -1,5 +1,5 @@
 # MFD-V2D
-![MFD-V2D Architecture](figures/mfd_v2d_architecture.png)
+![MFD-V2D Architecture](figures/overall fig.png)
 Unsupervised Cardiac Video Translation Via Motion Feature Guided Diffusion Model
 
 ## Train the Registration Network

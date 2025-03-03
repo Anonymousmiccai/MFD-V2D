@@ -4,7 +4,6 @@ Unsupervised Cardiac Video Translation Via Motion Feature Guided Diffusion Model
 
 ## Demonstration of MFD-V2V
 <p align="center">
-  <video autoplay loop muted playsinline width="250">
   <img src="MFD-V2V_demos/A01_P101_evaluation.gif" width="250" />
   <img src="MFD-V2V_demos/A01_P104_evaluation.gif" width="250" />
   <img src="MFD-V2V_demos/A01_P12_evaluation.gif" width="250" />

@@ -33,5 +33,7 @@ Run this below command if you want to train our registration network
 
 ## Train the Diffusion Model
 If you want to train the diffusion model Run the below command
+
 `python train_video_flow_diffusion.py file` 
 
+We already provide the pretrain weight of our registration network (LTMA) as a .pt file inside the models folder.

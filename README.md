@@ -24,7 +24,7 @@ Unsupervised Cardiac Video Translation Via Motion Feature Guided Diffusion Model
   <img src="MFD-V2V_demos/A01_P46_evaluation.gif" width="250" />
 </p>
 
-In the above demos, for each coloum, (left) is the DENSE CMR sequences and (right) is the paired Cine CMR sequences synthesized by our method MFD-V2V. 
+In the above demos, for each coloum, **(left)** is the DENSE CMR sequences and **(right)** is the paired Cine CMR sequences synthesized by our method MFD-V2V. 
 ## Train the Registration Network
 If you want to train the registration network, then go to the "Train LTMA registration Network" and run the Main.py file. The code will automatically save the last checkpoint for you, so you don't need to do anything. After training the registration network put the checkpoint in the models folder. We already provide the pretrain weights of the registration network inside the models folder.
 

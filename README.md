@@ -32,5 +32,6 @@ Run this below command if you want to train our registration network
 `python Train LTMA registration Network/Main.py`
 
 ## Train the Diffusion Model
-Run the train_video_flow_diffusion.py file. 
+If you want to train the diffusion model Run the below command
+`python train_video_flow_diffusion.py file` 
 
